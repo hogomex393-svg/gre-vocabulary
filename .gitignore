@@ -5,8 +5,11 @@
 /sources/
 /*.log
 /网站预览.jpg
+/*网站预览.jpg
 /tools/qa-store/
 /tools/*.json
+/tools/finish_handoff.py
+/tools/prepare_clean_archive.py
 /tools/__pycache__/
 /.sites-runtime/
 /.env*

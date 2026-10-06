@@ -29,6 +29,7 @@
 - `docs/books/`：来源 PDF，词条详情可以打开指定页码。
 - `tools/build-pages.cjs`：把最新页面构建为 Pages 静态输出。
 - `server.cjs`、`start.ps1`：本地服务和启动入口。
+- `cloud-api/`：加密云存档服务的关键源码、数据库迁移与验证。
 
 更新网页后执行：
 
