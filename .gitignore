@@ -1,0 +1,14 @@
+# Private study progress and machine-specific runtime
+/存档/
+/runtime/
+/资料原件/
+/sources/
+/*.log
+/网站预览.jpg
+/tools/qa-store/
+/tools/*.json
+/tools/__pycache__/
+/.sites-runtime/
+/.env*
+/cloud-sync/
+/*.tar.gz
